@@ -1,0 +1,13 @@
+#structure{
+    border-collapse: collapse;
+    background-color: rgb(18, 17, 16);
+    box-shadow: 0 0 20px rgb(0,0,0,.15);
+}
+
+#structure td{
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    color: red;
+    font-size: 26px;
+}
